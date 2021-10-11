@@ -2,19 +2,17 @@
 
 ## Table of Contents
 
-[Joint Savings Account]()
+[Joint Savings Account](https://github.com/juzcho/Module-20-Challenge-Joint-Savings-Account#joint-savings-account)
 
-[Technologies]()
+[Technologies](https://github.com/juzcho/Module-20-Challenge-Joint-Savings-Account#technologies)
 
-[Installation/ Usage Guide]()
+[Installation/ Usage Guide](https://github.com/juzcho/Module-20-Challenge-Joint-Savings-Account#installation-usage-guide)
 
-[Examples]()
+[Examples](https://github.com/juzcho/Module-20-Challenge-Joint-Savings-Account#examples)
 
-[Usage]()
+[Contributors](https://github.com/juzcho/Module-20-Challenge-Joint-Savings-Account#contributors)
 
-[Contributors]()
-
-[License]()
+[License](https://github.com/juzcho/Module-20-Challenge-Joint-Savings-Account#license)
 
 ---
 
