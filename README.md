@@ -75,6 +75,9 @@ This project leverages **[python version 3.8.5](https://www.python.org/downloads
 
 ![Transaction 3](./Execution_Results/transaction_3_send_5ether.gif)
 
+#### **Transaction 4: Withdrawing 5 ether into accountOne and 10 ether into accountTwo.**
+![Transaction 4](./Execution_Results/withdraw_transaction.gif)
+
 ---
 
 ## Contributors
