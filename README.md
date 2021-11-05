@@ -1,4 +1,4 @@
-# Module 20 Challenge: Joint Savings Account
+# Joint Savings Account with Solidity
 
 ## Table of Contents
 
